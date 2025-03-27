@@ -8,7 +8,7 @@ var search = function (nums, target, left = 0) {
 		return -1;
 	}
 	let midId = nums.length % 2 == 0 ? nums.length / 2 : (nums.length - 1) / 2;
-	console.log(midId, nums[midId], left);
+	// console.log(midId, nums[midId], left);
 	if (target === nums[midId]) {
 		return left + midId;
 	}

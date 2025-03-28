@@ -1,4 +1,4 @@
-package Moving;
+package random;
 
 public class Moving {
   public static boolean canMove(String s){

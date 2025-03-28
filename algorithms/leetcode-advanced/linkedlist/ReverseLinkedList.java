@@ -1,4 +1,4 @@
-package ReverseLinkedList;
+package linkedlist;
 
 public class ReverseLinkedList {
 

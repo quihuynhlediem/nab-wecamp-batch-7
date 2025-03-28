@@ -1,4 +1,4 @@
-package ValidParentheses;
+package stack;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
